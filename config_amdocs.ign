@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+BNcaAbl0w8l/mQOKxNP36ZpllZ+8E5reP+SiQZ/EL7wNKPCySqss7EsZbbWVbtCfr6wijxxW6p8Gm4lPaBk2Rj6MQ4PScagbP+VtWf4E68yeQ4j9fCyI//okoxWbgv1enSQEm04LRy7n51UP/44nzinHSt5MuifKWt78Z/7W4Ul1/0vQzzyTaL2WFfa9GnTjIu13tNyEXeQWa3rUolW4PDFlomd78CSD/VS9SfrxeHfFWxfDAZFWsbKriJBD5gyyNHqb5DvYV3gVlZzNmih4sLdnkrtAe8fC/6AcKBzQIM0BNSfyDHWHtRY3yKvq9kAkSxbBGkJvzKn3dHDaNAXJsvfNm/HOcba/3J2YvECZFKf4iCmEbSHjZXCfpPViYbhzDWKQrZBcsvSfOVOU3NrszllgWTDGFey0lbIY/DOCFUtenxPMl7OHk/RQeWJI703lB9oSfJ1tigguy7eSde6ZMws1tHBsS87YT2sE8bsLFz34bjsUnIn779RgUbQcgp2KfoC98DqctH5oYLY6uEqKx/ak8PdWG6pXmf89tJvEga3jOnnIjTTWso2k0zpb39xjfV/jHcyks7rJ1P2IIoAhFCui+kpT7UXFAaCG2QKop30+gKnmVTT1SJw2VxbSpD5SlLpLxy8Uz6SiOnzhkIR+aqgaBfhpDnBVnGvPjsBC6w== oscar.escobar@movistar.com.sv"
+        ]
+      }
+    ]
+  }
+}
