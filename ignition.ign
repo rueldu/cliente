@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "sscope",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDjgZLLFaY+HK6A6vRhmin4B4aRT8ULoH4bP8HDA7uSSPoxebrK3wBW1oEz6+my8dhAByi7QC2Qd3jdxXXG9/njJhAzMJptfiSZZG8v3s3idAbnjopTI74yrMx4lqemiNzPNPbO4rFc7QR7Ai3hPIQyUjwzOOzkB9tp6FmyS5uznLbdnKV7hH+p3TARJtzEtBPC27psuoSlE31NMhxyNhBXaR4UYqu3EvZE4anK+3x4ACToi9PbxlbN76CWcfHTFljOSmIsu+uI23vIH54a2E2kXSuu1VRTMboF+AJYSugTGeG/qViMrCowJe+3TSz623V4SDK8ZZBYt7qaET9ZeM0zD3AKZU/xeYD0kiYLk5FwhiEH8ndWNk035Fm0d0dACufuMkG2K3/NYVKe11d+kspqVMv25k+n7+xYuIZYb3FR+VV9TA5sT2n9JFlbvdtMxZsnjFpfSZizplI3cvW8Kr8z6bP3LCy+E1vtPJBAzA/MEoZ6+e2mT2bIxmFOp7LwMgBBW7APBYXyUVoShLBYGrsXjntXP7K4auHIniRBP6lfkUhxzQfi11P4oOlsUutR3R/cMgA+hooZPnBcxbo56T8F4PQ1NNK3tQ2O8OQ27dA6KfvvKZbcL1qAmJh7kEry35kgRwbU56wR/lb7hOGS7meX12VCb3pDdqIpAn9ej/tiiQ== rueldu@gmail.com"
+        ]
+      }
+    ]
+  }
+}
